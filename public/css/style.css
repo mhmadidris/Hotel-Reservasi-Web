@@ -1,0 +1,24 @@
+/* start navbar */
+.nav-sticky {
+    background-color: rgba(249, 250, 251, var(--tw-bg-opacity));
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.nav-text li{
+    color: black;
+}
+
+.nav-text .active{
+    background-color: rgba(229, 231, 235);
+}
+
+.active {
+    background-color: rgba(55, 65, 81);
+}
+/* end navbar */
+
+/* Start PopUp */
+.asa {
+    color: blueviolet;
+}
+/* End PopUp */
